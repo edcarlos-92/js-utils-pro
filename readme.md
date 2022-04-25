@@ -1,7 +1,7 @@
 # @edcartech/js-utils-pro
 
 [![npm (scoped)](https://img.shields.io/npm/v/@edcartech/js-utils-pro.svg)](https://www.npmjs.com/package/@edcartech/js-utils-pro)
-[![npm bundle size (minified)](https://img.shields.io/badge/minified%20version-254B-blue)](https://www.npmjs.com/package/@edcartech/js-utils-pro)
+[![npm bundle size (minified)](https://img.shields.io/badge/minified%20version-1.4%20kB-blue)](https://www.npmjs.com/package/@edcartech/js-utils-pro)
 
 React Private Project Library
 Removes all spaces from a string.
