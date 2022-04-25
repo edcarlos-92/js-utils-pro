@@ -1,0 +1,14 @@
+{
+    "name": "@edcartech/js-utils-pro",
+    "version": "1.0.0",
+    "description": "JavaScript Utilities For Programmers",
+    "license": "MIT",
+    "repository": "edcartech/js-utils-pro",
+    "main": "index.js",
+    "keywords": [
+        "js-utils-pro",
+        "npm",
+        "package",
+        "edcartech"
+    ]
+}
