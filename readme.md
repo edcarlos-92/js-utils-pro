@@ -13,7 +13,7 @@ $ npm install @edcartech/js-utils-pro
 
 ## Usage
 
-# ===> 1. Closing All spaces in string <===
+# Closing All spaces in a string
 
 ```js
 //Cloding the Space of a string
@@ -28,7 +28,7 @@ closeStringSpace(1337);
 //    at <anonymous>:1:1
 ```
 
-# ===> 2. Check if a String is a valid Email ( Email Validation) <===
+# 2. Check if a String is a valid Email ( Email Validation)
 
 ```js
 //Import validation Function from js-utils-pro
