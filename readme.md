@@ -95,7 +95,7 @@ let data = [
         id:4,
         name:"Edorh Ottis",
         email:"ottis@gmail.com",
-        school:"UL"
+        school:"ULM"
     },
 ]
 
