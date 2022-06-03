@@ -1,7 +1,7 @@
 # @edcartech/js-utils-pro
 
 [![npm (scoped)](https://img.shields.io/npm/v/@edcartech/js-utils-pro.svg)](https://www.npmjs.com/package/@edcartech/js-utils-pro)
-[![npm bundle size (minified)](https://img.shields.io/badge/package%20size-6.16%20kB-blue)](https://www.npmjs.com/package/@edcartech/js-utils-pro)
+[![npm bundle size (minified)](https://img.shields.io/badge/package%20size-9.0%20kB-blue)](https://www.npmjs.com/package/@edcartech/js-utils-pro)
 
 JavaScript Utilities For Programmers
 
@@ -13,7 +13,7 @@ $ npm install @edcartech/js-utils-pro
 
 ## Usage
 
-# Closing All spaces in a string
+# 1. Closing All spaces in a string
 
 ```js
 //Cloding the Space of a string
@@ -49,7 +49,7 @@ if (Validate === true) {
 }
 //=> "Awwww it's an Invalid Email"
 ```
-# Select One record from an Array object in JSON Format of Object[{...}]
+# 3. Select One record from an Array object in JSON Format of Object[{...}]
 
 ```js
 //Consider a JSON array object of an unordered collection of records. 
@@ -58,7 +58,7 @@ if (Validate === true) {
 let data = [
     {
         id:1,
-        name:"Edorh Carlos"
+        name:"Edorh Carlos",
         email:"edcartech@gmail.com",
         school:"UEW"
     },
@@ -95,7 +95,7 @@ selectOneByIdFromArrayObject(data,4,"email");
 ```
 
 
-# Check if a Field Value exist in an Array JSON object in Format Object[{...}]
+# 4. Check if a Field Value exist in an Array JSON object in Format Object[{...}]
 
 ```js
 //Consider a JSON array objectData of an unordered collection of records. 
@@ -104,7 +104,7 @@ selectOneByIdFromArrayObject(data,4,"email");
 let objectData = [
     {
         id:1,
-        name:"Edorh Carlos"
+        name:"Edorh Carlos",
         email:"edcartech@gmail.com",
         school:"UEW"
     },
