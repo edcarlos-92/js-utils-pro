@@ -30,7 +30,7 @@ module.exports = function closeStringSpace(string) {
  * @param id The Exact unique id from the Object where the record is.
  * @param reference The field or Element containing the record.
  */
-module.exports = function selectOneByIdOnArrayObject(
+module.exports = function selectOneByIdFromArrayObject(
   dataObject,
   id,
   reference
